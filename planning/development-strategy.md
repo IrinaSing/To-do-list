@@ -16,3 +16,21 @@
   it will take some time and practice to get used to this
 
 -->
+
+## List of items
+
+### HTML
+- [ ] unordered list <ul>
+- [ ] items <li>
+
+  
+## Mark done 
+  ### HTML  
+- [] create check-boxes 
+  
+  
+## Sort the list (done - not done)
+  
+### HTML
+ - [ ] 
+  
