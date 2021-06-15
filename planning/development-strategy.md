@@ -20,17 +20,19 @@
 ## List of items
 
 ### HTML
-- [ ] unordered list <ul>
-- [ ] items <li>
 
-  
-## Mark done 
-  ### HTML  
-- [] create check-boxes 
-  
+- [ ] unordered list <_ul_>
+- [ ] items <_li_>
+
+## Mark done
+
+### HTML  
+
+- [] create check-boxes
   
 ## Sort the list (done - not done)
   
 ### HTML
- - [ ] 
+
+- [ ]
   
