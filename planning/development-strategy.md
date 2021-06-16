@@ -28,11 +28,11 @@
 
 ### HTML  
 
-- [] create check-boxes
+- [ ] create check-boxes
   
 ## Sort the list (done - not done)
   
 ### HTML
 
-- [ ]
+
   
