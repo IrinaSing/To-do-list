@@ -12,6 +12,8 @@
 
 - As a user I want to have **drag and drop function** so that I could _change order_ of the items in the list.  
 - As a user I want to have a **second list** to keep items that are marked as "done" apart from items "to-do".
+- As a user I want to have a **strikethrough style** on items so that I could easily recognize that they are done.
+- As a user I want to have a **filter form** to be able to filter items according to string content I request.
 
 ## Could-haves
 
@@ -20,3 +22,4 @@
 - As a user I want to have a **function to delete all items**.  
 - As a user I want to have a user-friendly pretty **design**, so that I could use the app with pleasure.  
 - As a user I want to have **calendar** so that I could plan for future and see what was planned in the past.
+- As a user I want to have **print button** so that I could print my list on paper and take it with me.
