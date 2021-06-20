@@ -16,23 +16,39 @@
   it will take some time and practice to get used to this
 
 -->
+## Data
+
+```js 
+ {
+   items : [
+     { text : 'Item 1', isChecked : true } 
+
+   ];
+ }
+``` 
 
 ## List of items
+
+Input form
+
+
 
 ### HTML
 
 - [ ] unordered list <_ul_>
 - [ ] items <_li_>
 
+
+
 ## Add item
 
 ### HTML
 
-Input form
-
 - [ ] <_input type="text"_>;
 - [ ] <_input type="submit"_>;
-
+- 
+### Companent
+- [ ] addItem
 ### Listener
 
 - [ ] target element "add-form", event - "submit", function - addItem;
