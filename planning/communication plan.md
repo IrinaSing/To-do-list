@@ -1,3 +1,4 @@
+
 # Planning
 
 ## Schedule
@@ -14,3 +15,4 @@
 
 - **Slack**
 - **Video Calls** 3 times: Tuesday, Thursday, Friday.
+
