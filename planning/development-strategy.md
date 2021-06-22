@@ -17,6 +17,17 @@
 
 -->
 
+## Data
+
+```js
+ {
+   items : [
+     { text : 'Item 1', isChecked : true } 
+
+   ];
+ }
+```
+
 ## List of items
 
 ### HTML
@@ -32,6 +43,10 @@ Input form
 
 - [ ] <_input type="text"_>;
 - [ ] <_input type="submit"_>;
+
+### Component
+
+- [ ] addItem
 
 ### Listener
 
