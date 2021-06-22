@@ -26,6 +26,21 @@
 
    ];
  }
+
+
+ const words = {
+  query: '',
+  filtered: [],
+  all: [],
+  };
+```
+
+## Components
+
+- [ ] Create item
+
+```js
+function createLi (toDoString, isChecked = false){ return newLi}
 ```
 
 ## List of items
@@ -43,10 +58,6 @@ Input form
 
 - [ ] <_input type="text"_>;
 - [ ] <_input type="submit"_>;
-
-### Component
-
-- [ ] addItem
 
 ### Listener
 
